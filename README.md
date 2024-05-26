@@ -2,8 +2,8 @@
 
 ### Motivation
 Build a robust, production-ready backend boilerplate using Spring Framework, 
-Docker and Gradle. Secure API with Role-Privileges based access control using 
-Spring Security.  
+Docker and Gradle. Use Role-Privileges based access control concept and 
+Spring Security to secure API.  
 
 This repo also serves as a knowledge base for Java, Gradle, Spring Core and
 Spring Security.
