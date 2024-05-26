@@ -9,16 +9,16 @@ This repo also serves as a knowledge base for Java, Gradle, Spring Core and
 Spring Security.
 
 ### Table of Contents
-- [Overview](#overview-)
-  - [Stack](#stack-)
+- [Overview](#overview)
+  - [Stack](#stack)
   - [Architecture](#architecture)
-- [Project Structure](#project-structure-)
-- [Prerequisites](#prerequisites-)
-- [Installation](#installation-)
-- [Usage](#usage-)
+- [Project Structure](#project-structure)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
 - [Knowledge Base](#knowledge-base)  
     - [Java](#java)
-    - [Gradle](#gradle-)
+    - [Gradle](#gradle)
     - [Spring Core](#spring-core)
     - [Spring Security](#spring-security)
 
